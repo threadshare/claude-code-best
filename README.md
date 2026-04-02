@@ -37,11 +37,12 @@ bun install
 
 ### 运行
 
+![开发模式截图](how_to_dev.png)
+
 ```bash
 # 开发模式, 看到版本号 888 说明就是对了
 bun run dev
 
-![开发模式截图](how_to_dev.png)
 
 # 直接运行
 bun run src/entrypoints/cli.tsx
