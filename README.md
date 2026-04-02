@@ -57,6 +57,8 @@ bun run build
 
 构建产物输出到 `dist/cli.js`（~25.75 MB，5326 模块）。
 
+![小精灵 dragon](dragon.png)
+
 ## 能力清单
 
 > ✅ = 已实现  ⚠️ = 部分实现 / 条件启用  ❌ = stub / 移除 / feature flag 关闭
