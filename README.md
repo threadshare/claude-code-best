@@ -38,6 +38,7 @@ bun install
 ### 运行
 
 ![开发模式截图](how_to_dev.png)
+可以使用公司 [claude-code setup](https://pinefield.feishu.cn/wiki/D92LwfH7EikBiekXMz3cGbwknEe) 的 key 直接深度调试
 
 ```bash
 # 开发模式, 看到版本号 888 说明就是对了
